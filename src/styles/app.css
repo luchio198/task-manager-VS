@@ -1,0 +1,18 @@
+.app {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 150px, auto;
+  /* border: 1px solid red; */
+}
+
+.app_main {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 8%;
+  /* border: 1px solid blue; */
+}
+
+.task_column {
+  width: 33.33%;
+  margin: 20px;
+}
