@@ -1,3 +1,7 @@
+# Task Manager
+
+This is a Task Manager App build in React, JavaScript and Material UI
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
